@@ -7,8 +7,10 @@ if wiek.isdigit() == False:
 wiek=int(wiek)
 if wiek>=18 and wiek<=50:
     print("Witamy w apce. Mozesz kupować u nas energetyki")
-elif:
+elif wiek>50 and wiek<=120:
     print("Witamy w apce. Mozesz kupować u nas energetyki")
     print("Uwaga: Uwazaj na serce przy spozywaniu takich napojow")
+elif wiek>120:
+    print("Wiek nieprawidłowy. W tym wieku prawodopodbnie nie żyjesz ;)")
 else:
     exit("Jestes za mlody/a na energetyki. Zapraszamy na disney.com:) ")

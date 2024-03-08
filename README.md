@@ -4,6 +4,7 @@ README:
 
 ## Funkcjonalności aplikacji w wersji:
 
-v.1.0
+v. 1.0
 - [x] obsługa osób dorosłych
-- [ ] obsługa wymagań specjalnych dla osób +50 [to be tested]
+- [x] obsługa wymagań specjalnych dla osób +50
+- [x] obsługa maksymalnego wieku (umownie ustalono 120 lat)
