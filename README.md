@@ -1,6 +1,6 @@
 v.1.0
 README:
-# Aplikacja dla osób dorosłych - zakup alkoholu w Pythonie
+# Aplikacja  - zakup energetyka w Pythonie
 
 ## Funkcjonalności aplikacji w wersji:
 
