@@ -7,4 +7,4 @@ README:
 v. 1.0
 - [x] obsługa osób dorosłych
 - [x] obsługa wymagań specjalnych dla osób +50
-- [x] obsługa maksymalnego wieku (umownie ustalono 120 lat)
+- [x] obsługa maksymalnego wieku (umownie ustalono 130 lat)
